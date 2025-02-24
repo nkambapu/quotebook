@@ -4,3 +4,5 @@ to be or not to be - William Wordsworth
 live long and prosper
 
 live and let live
+
+The best way to predict the feature is to create it - Peter Drucker
